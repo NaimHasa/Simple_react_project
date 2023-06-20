@@ -2,3 +2,9 @@
     position: sticky;
     top: 0;
 }
+
+.cart h4 {
+    margin-top: 20px;
+    padding: 30px;
+
+}
